@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 ## Bit Manipulation
 |  |
 | ------- |
