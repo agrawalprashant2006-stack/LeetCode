@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Recursion
 |  |
 | ------- |
