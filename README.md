@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 ## Bit Manipulation
