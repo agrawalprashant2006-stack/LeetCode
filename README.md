@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
