@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 ## Bit Manipulation
 |  |
