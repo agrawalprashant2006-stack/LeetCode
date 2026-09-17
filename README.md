@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
+| [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0054-spiral-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
 ## Manacher
 |  |
 | ------- |
