@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
