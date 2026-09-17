@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0054-spiral-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
+| [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 ## Manacher
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
