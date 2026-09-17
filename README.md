@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
