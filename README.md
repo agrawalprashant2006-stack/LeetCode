@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
