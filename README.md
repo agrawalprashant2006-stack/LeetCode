@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0918-maximum-sum-circular-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
