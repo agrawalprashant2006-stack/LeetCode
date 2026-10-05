@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
