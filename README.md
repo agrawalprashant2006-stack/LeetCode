@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2614-prime-in-diagonal](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
