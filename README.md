@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3099-harshad-number](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3099-harshad-number) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Greedy
+|  |
+| ------- |
+| [0738-monotone-increasing-digits](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0738-monotone-increasing-digits) |
 <!---LeetCode Topics End-->
