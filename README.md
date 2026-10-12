@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0048-rotate-image) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0189-rotate-array) |
