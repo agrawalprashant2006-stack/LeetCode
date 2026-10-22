@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2390-removing-stars-from-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2390-removing-stars-from-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
