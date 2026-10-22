@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2390-removing-stars-from-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2810-faulty-keyboard) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2540-minimum-common-value) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -295,5 +298,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
