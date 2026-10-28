@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
