@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2390-removing-stars-from-a-string](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2716-minimize-string-length) |
