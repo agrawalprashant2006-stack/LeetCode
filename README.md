@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
