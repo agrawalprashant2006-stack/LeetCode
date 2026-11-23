@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0233-number-of-digit-one) |
 | [2094-finding-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
