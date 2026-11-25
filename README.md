@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/agrawalprashant2006-stack/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
